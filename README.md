@@ -6,7 +6,7 @@ I was a student at the Technological University of Dublin, and I have completed 
 
 I have previously worked as a Contracted Web Developer, for companies such as **3D Printing Ireland**, and created numerous websites for different clients as a Freelance Web Developer.
 
-I have also worked as Site Reliability Engineering Intern at **Mastercard**, where I will be returning in September 2026 as a **Software Engineer I**.
+I have also worked as a Site Reliability Engineering Intern at **Mastercard**, where I will be returning in September 2026 as a **Software Engineer I**.
 
 # Pinned Projects
 
